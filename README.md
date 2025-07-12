@@ -55,7 +55,7 @@ usage: instagram.py [-h] [-u USERNAME] [-p PASSLIST] [-px PROXYLIST] [--prune PR
 optional arguments:
   -h, --help            show this help message and exit
   -u USERNAME, --username USERNAME
-                        email or username
+                        @jatinrock128
   -p PASSLIST, --passlist PASSLIST
                         password list
   -px PROXYLIST, --proxylist PROXYLIST
