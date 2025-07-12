@@ -134,8 +134,8 @@ python instagram.py -u <username> -p <passlist>
 
 ```
 [-] Wordlist: passlist.txt
-[-] Username: Sami09.1
-[-] Password: Sami123
+[-] Username: Jatinrock128
+[-] Password: 
 [-] Complete: 62.67%
 [-] Attempts: 314
 [-] Browsers: 185
